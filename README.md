@@ -37,15 +37,4 @@ Twitter is an American online news and social networking service on which users 
   ## Result
   <img src="images/sentiments.png" > </img>
   
-  ## Applications
-  <ul>
-  <li>Forex Trading</li>
-  <li>Investor's portfolio for prediction</li>
-  <li>To arrive at happiness index of the customers</li>
-  <li>Determining product recommendations</li>
-  <li>Predicting Stock market moods</li>
-  <li>As a competitive marketing tool</li>
-  </ul>
-  
-  ## Future Scope
-  This project can be modified to detect feelings and emotions (angry, happy, sad, etc) or identify intentions (e.g. interested v. not interested). It just requires the data for the same to be trained.
+
